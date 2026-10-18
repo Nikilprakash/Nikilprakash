@@ -19,4 +19,4 @@ Top 10 customers, dynamic filters across region/category/year
 SQL Server · T-SQL · ETL · Tableau · Excel · Data Modelling · Star Schema
 
 ### Currently
-🎯 Targeting Data Analyst & Business Analyst roles in financial services — Bangalore
+🎯 Targeting Data Analyst & Business Analyst roles in financial services 
