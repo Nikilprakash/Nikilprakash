@@ -2,7 +2,7 @@
 
 Data Analyst based in Bangalore, India.
 
-I build end-to-end data solutions — from ETL pipelines and 
+I build end-to-end data solutions from ETL pipelines and 
 data warehouse architecture to business dashboards designed 
 for non-technical stakeholders.
 
